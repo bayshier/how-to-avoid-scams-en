@@ -56,4 +56,4 @@ Scammers refresh their scripts weekly; your warnings get refreshed once a year. 
 
 ---
 
-*Related teardowns: #220 shipping labels, #228 fake auctions of sky-priced antique coins and ration coupons, #287 "Chinese classics and fortune-telling" harvesting elders, #304 free-supplement pyramid schemes, #327 the golden half-hour, #330 the Five Blades. For vetted similar cases, see [the verification log](核实记录.md) (Chinese). Have your parents take this self-test: [selfcheck.html](../selfcheck.html).*
+*Related teardowns: #220 shipping labels, #228 fake auctions of sky-priced antique coins and ration coupons, #287 "Chinese classics and fortune-telling" harvesting elders, #304 free-supplement pyramid schemes, #327 the golden half-hour, #330 the Five Blades. For vetted similar cases, see the original's [verification log](https://github.com/QERSSD/HowToAvoidScams/blob/main/docs/%E6%A0%B8%E5%AE%9E%E8%AE%B0%E5%BD%95.md) and its [45-question self-check](https://qerssd.github.io/HowToAvoidScams/selfcheck.html) (both in Chinese).*

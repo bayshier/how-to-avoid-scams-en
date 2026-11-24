@@ -104,4 +104,4 @@ From #329; it covers eighty percent of scam openings —
 
 ---
 
-*Related teardowns: #327 "The golden half-hour: the self-rescue procedure," #328 "The seven anti-fraud tools the state gives you," #330 "The original Five Blades essay," #329 "Three don'ts, one do, and the eight anyone-whos." For a life self-audit, see [selfcheck.html](../selfcheck.html).*
+*Related teardowns: #327 "The golden half-hour: the self-rescue procedure," #328 "The seven anti-fraud tools the state gives you," #330 "The original Five Blades essay," #329 "Three don'ts, one do, and the eight anyone-whos." For a life self-audit, see [selfcheck.html](https://qerssd.github.io/HowToAvoidScams/selfcheck.html).*

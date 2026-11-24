@@ -58,4 +58,4 @@ The slide has a rule: **the more you know, the more you take, the longer you sta
 
 ---
 
-*Related teardowns: #25 dog-eat-dog among money mules, #135 cryptocurrency money muling, #39 gift-card redemption laundering, #89 like-for-cash lead generation, #218 parcel-dropshipping accomplices, #327 the golden half-hour, #328 the seven anti-fraud tools. For the slang, see [the glossary](glossary-of-scam-slang.md): money muling (跑分), the "money laundry" (水房), card farmers (卡农), the "four-piece set" (四件套), card cut-off (断卡). For a life self-audit, see [selfcheck.html](../selfcheck.html).*
+*Related teardowns: #25 dog-eat-dog among money mules, #135 cryptocurrency money muling, #39 gift-card redemption laundering, #89 like-for-cash lead generation, #218 parcel-dropshipping accomplices, #327 the golden half-hour, #328 the seven anti-fraud tools. For the slang, see [the glossary](glossary-of-scam-slang.md): money muling (跑分), the "money laundry" (水房), card farmers (卡农), the "four-piece set" (四件套), card cut-off (断卡). For a life self-audit, see [selfcheck.html](https://qerssd.github.io/HowToAvoidScams/selfcheck.html).*
